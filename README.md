@@ -19,8 +19,7 @@ O projeto está organizado da seguinte maneira:
 - `src/main/java`: Contém o código-fonte do projeto.
 - `src/main/resources`: Contém arquivos de configuração como o `application.properties`.
 
-
-##Pré-requisitos
+Pré-requisitos
 
 - Java 17
 - Maven
@@ -38,3 +37,10 @@ GET /usuarios/cpf/{cpf}: Retorna os detalhes de um usuário pelo CPF.
 GET /usuarios: Lista todos os usuários cadastrados.
 PUT /usuarios/{id}: Atualiza os dados de um usuário existente.
 DELETE /usuarios/{id}: Exclui um usuário pelo ID.
+
+
+Video dos testes pelo Postman:
+
+
+https://github.com/user-attachments/assets/2e0384cc-ee9f-4af9-a0d8-ac18150f3fe2
+
